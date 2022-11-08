@@ -1,1 +1,1 @@
-console.log("rodando o gerenciamento de jogos")
+console.log("rodando o sistema de gerenciamento de jogos")
